@@ -8,4 +8,4 @@ Kullanılan YSA Yöntemi: Keras kütüphanesindeki hazır yapay sinir ağları a
 
 Kullanılan Grafikler: Accuracy ve Loss Grafiği, Confusion Matrix, Roc Grafiği
 
-Kullanılan veri setinin linki = https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.
+Kullanılan veri setinin linki = https://www.kaggle.com/uciml/mushroom-classification
