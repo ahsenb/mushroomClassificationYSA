@@ -1,4 +1,4 @@
-# Poisonous-Nonoisonous-Mushroom-Classification
+# Mushroom Classification
 
 ZEHİRLİ-ZEHİRSİZ MANTAR SINIFLANDIRMASI
 
